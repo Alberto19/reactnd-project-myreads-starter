@@ -71,8 +71,8 @@ export default class ListOfBooks extends Component {
           </div>
         }
         <div className="open-search">
-          <Link to="/add">
-            Add a book
+          <Link to="/search">
+          search a book
           </Link>
         </div>
       </div>

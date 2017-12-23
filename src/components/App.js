@@ -15,7 +15,7 @@ const BooksApp = () =>
       />
 
       <Route
-        path="/add"
+        path="/search"
         component={AddBook}
       />
     </div>
